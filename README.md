@@ -1,35 +1,35 @@
-# futbot-neon-pro
-Jogo de futebol de botao neon com fisica realista - PWA# ⚽ FutBot Neon Pro
+# ⚽ FutBot Neon Pro
 
-Jogo de futebol de botão com física realista, modos single player e multiplayer local.
+Jogo de futebol de botão estilo neon com física realista. Feito 100% em HTML5 Canvas + JavaScript Vanilla e transformado em PWA instalável.
 
-## 🎮 Recursos
+> Um dos meus 2 apps publicados na Microsoft Store.
 
-- ⚽ 4 modos de jogo: 1x1, 2x2, 4x4, 5x5
-- 🏆 Copa do Mundo com 32 seleções
-- 🥅 Modo Pênaltis
-- 🎨 3 skins de botões
-- 🏟️ 4 esquemas de campo
-- 🌧️ Gramado molhado com física realista
-- 🌙 Modo noturno com holofotes
-- 🟨 Juiz inteligente com 600ms de tolerância
+### 📱 Jogar agora
+- 🪟 [Baixar na Microsoft Store](https://apps.microsoft.com/detail/9PDLSC1281T3?hl=pt-br&gl=BR)
+- 🌐 [Jogar no navegador (PWA)](https://intox583-boop.github.io/futbot-neon-pro/)
 
-## 🎯 Controles
+### 🎮 Recursos
+- 4 modos: 1x1, 2x2, 4x4, 5x5
+- Copa do Mundo com 32 seleções
+- Modo Pênaltis
+- 3 skins de botões + 4 esquemas de campo
+- Gramado molhado com física
+- Modo noturno com holofotes
+- Juiz inteligente com 600ms de tolerância
 
-- **Toque/Clique:** Arrasta o jogador
-- **Mouse + Arrastar:** Define direção e força do chute
+### 🎯 Controles
+- Toque/Clique: arrasta o jogador
+- Mouse + arrastar: define direção e força
 
-## 🛠️ Tecnologias
+### 🛠️ Como foi feito (o que eu posso fazer pra você)
+- HTML5 Canvas com física customizada
+- JavaScript Vanilla (sem frameworks)
+- PWA completo: manifest.json + sw.js (service worker) + icons 192/512 - funciona offline
+- Publicado e aprovado na Microsoft Store
 
-- HTML5 Canvas
-- JavaScript Vanilla
-- PWA (Progressive Web App)
+### 👨‍💻 Autor
+Desenvolvedor aposentado com 2 apps na Store. Especialista em PWA + IA local privada (Llama 3.2 1B, Gemma 3 2B, Qwen 2.5 1.8B via Ollama). GitHub: @intox583-boop
 
-## 📱 Disponível em
-
-🪟 Microsoft Store (em breve!)
-
-## 📄 Licença
-
-MIT License - veja [LICENSE](LICENSE)
+### 📄 Licença
+MIT  [LICENSE](LICENSE)
 
